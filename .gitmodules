@@ -1,0 +1,72 @@
+[submodule "plugins/redmine_close_button"]
+	path = plugins/redmine_close_button
+	url = https://github.com/ChatWorks/redmine_close_button.git
+[submodule "plugins/redmine_custom_reports"]
+	path = plugins/redmine_custom_reports
+	url = https://github.com/ChatWorks/redmine_custom_reports.git
+[submodule "plugins/redmine_editor_preview_tab"]
+	path = plugins/redmine_editor_preview_tab
+	url = https://github.com/ChatWorks/redmine_editor_preview_tab.git
+[submodule "plugins/redmine_emoji"]
+	path = plugins/redmine_emoji
+	url = https://github.com/ChatWorks/redmine_emoji.git
+[submodule "plugins/redmine_highlightjs"]
+	path = plugins/redmine_highlightjs
+	url = https://github.com/ChatWorks/redmine_highlightjs.git
+[submodule "plugins/redmine_image_clipboard_paste"]
+	path = plugins/redmine_image_clipboard_paste
+	url = https://github.com/ChatWorks/redmine_image_clipboard_paste.git
+[submodule "plugins/redmine_issue_badge"]
+	path = plugins/redmine_issue_badge
+	url = https://github.com/ChatWorks/redmine_issue_badge.git
+[submodule "plugins/redmine_issue_checklist"]
+	path = plugins/redmine_issue_checklist
+	url = https://github.com/ChatWorks/redmine_issue_checklist.git
+[submodule "plugins/redmine_issue_templates"]
+	path = plugins/redmine_issue_templates
+	url = https://github.com/ChatWorks/redmine_issue_templates.git
+[submodule "plugins/redmine_issues_tree"]
+	path = plugins/redmine_issues_tree
+	url = https://github.com/ChatWorks/redmine_issues_tree.git
+[submodule "plugins/redmine_lightbox2"]
+	path = plugins/redmine_lightbox2
+	url = https://github.com/ChatWorks/redmine_lightbox2.git
+[submodule "plugins/redmine_local_avatars"]
+	path = plugins/redmine_local_avatars
+	url = https://github.com/ChatWorks/redmine_local_avatars.git
+[submodule "plugins/redmine_my_page_queries"]
+	path = plugins/redmine_my_page_queries
+	url = https://github.com/ChatWorks/redmine_my_page_queries.git
+[submodule "plugins/redmine_plugin_display_role"]
+	path = plugins/redmine_plugin_display_role
+	url = https://github.com/ChatWorks/redmine_plugin_display_role.git
+[submodule "plugins/redmine_priority_colors"]
+	path = plugins/redmine_priority_colors
+	url = https://github.com/ChatWorks/redmine_priority_colors.git
+[submodule "plugins/redmine_show_issue_assignee_avatar"]
+	path = plugins/redmine_show_issue_assignee_avatar
+	url = https://github.com/ChatWorks/redmine_show_issue_assignee_avatar.git
+[submodule "plugins/redmine_user_specific_theme"]
+	path = plugins/redmine_user_specific_theme
+	url = https://github.com/ChatWorks/redmine_user_specific_theme.git
+[submodule "plugins/redmine_watcher_filter"]
+	path = plugins/redmine_watcher_filter
+	url = https://github.com/ChatWorks/redmine_watcher_filter.git
+[submodule "plugins/redmine_watcher_groups"]
+	path = plugins/redmine_watcher_groups
+	url = https://github.com/ChatWorks/redmine_watcher_groups.git
+[submodule "plugins/redmine_work_time"]
+	path = plugins/redmine_work_time
+	url = https://github.com/ChatWorks/redmine_work_time.git
+[submodule "plugins/redmine_zenedit"]
+	path = plugins/redmine_zenedit
+	url = https://github.com/ChatWorks/redmine_zenedit.git
+[submodule "plugins/sidebar_hide"]
+	path = plugins/sidebar_hide
+	url = https://github.com/ChatWorks/sidebar_hide.git
+[submodule "themes/PurpleMine2"]
+	path = themes/PurpleMine2
+	url = https://github.com/ChatWorks/PurpleMine2.git
+[submodule "themes/redmine-theme-gitmike"]
+	path = themes/redmine-theme-gitmike
+	url = https://github.com/ChatWorks/redmine-theme-gitmike.git
