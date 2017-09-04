@@ -37,7 +37,14 @@ docker run --name=redmine -d \
   docker run --name=redmine -it --rm \
   --link=postgresql-redmine:postgresql --publish=10083:80 \
   --env='REDMINE_PORT=10083' \
-  --volume=/root/work/redmine.data:/home/redmine/data \
+  --volume=/srv/docker/redmine/data:/home/redmine/data \
   sameersbn/redmine:3.3.0 \
   app:rake redmine:plugins:migrate NAME=redcase VERSION=0
 ```
+
+**NOTE**
+主要如果出现错误请检查是否执行命令
+```bash
+chcon -Rt svirt_sandbox_file_t /path/to/dir
+```
+如果是出现权限错误，请删除/data目录中的tmp目录。
