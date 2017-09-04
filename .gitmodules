@@ -73,3 +73,6 @@
 [submodule "plugins/redmine_knowledgebase"]
 	path = plugins/redmine_knowledgebase
 	url = https://github.com/ChatWorks/redmine_knowledgebase.git
+[submodule "plugins/scrum2b"]
+	path = plugins/scrum2b
+	url = https://github.com/ChatWorks/scrum2b.git
