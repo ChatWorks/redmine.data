@@ -70,3 +70,6 @@
 [submodule "themes/redmine-theme-gitmike"]
 	path = themes/redmine-theme-gitmike
 	url = https://github.com/ChatWorks/redmine-theme-gitmike.git
+[submodule "plugins/redmine_knowledgebase"]
+	path = plugins/redmine_knowledgebase
+	url = https://github.com/ChatWorks/redmine_knowledgebase.git
