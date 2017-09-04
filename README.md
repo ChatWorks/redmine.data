@@ -29,3 +29,15 @@ docker run --name=redmine -d \
   sameersbn/redmine:3.3.0
 
 ```
+
+# delete redmine plugin
+
+```bash
+# delete plugin
+  docker run --name=redmine -it --rm \
+  --link=postgresql-redmine:postgresql --publish=10083:80 \
+  --env='REDMINE_PORT=10083' \
+  --volume=/root/work/redmine.data:/home/redmine/data \
+  sameersbn/redmine:3.3.0 \
+  app:rake redmine:plugins:migrate NAME=redcase VERSION=0
+```
