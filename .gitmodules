@@ -76,3 +76,6 @@
 [submodule "plugins/scrum2b"]
 	path = plugins/scrum2b
 	url = https://github.com/ChatWorks/scrum2b.git
+[submodule "plugins/redmine_my_page"]
+	path = plugins/redmine_my_page
+	url = https://github.com/ChatWorks/redmine_my_page.git
